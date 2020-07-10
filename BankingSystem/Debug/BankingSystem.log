@@ -1,0 +1,5 @@
+﻿  BankingSystem.cpp
+c:\users\jkonkala\desktop\c++\bankingsystem\bankingsystem\bankingsystem.cpp(153): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\jkonkala\desktop\c++\bankingsystem\bankingsystem\bankingsystem.cpp(188): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\jkonkala\desktop\c++\bankingsystem\bankingsystem\bankingsystem.cpp(312): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  BankingSystem.vcxproj -> C:\Users\jkonkala\Desktop\C++\BankingSystem\Debug\BankingSystem.exe
